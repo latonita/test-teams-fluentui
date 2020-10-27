@@ -21,7 +21,6 @@
     "express-msteams-host": "1.6.2",
     "express-session": "1.15.6",
     "morgan": "1.9.1",
-    "msteams-react-base-component": "^2.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "webpack-cli": "^4.1.0"

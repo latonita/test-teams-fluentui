@@ -4,7 +4,7 @@ import { Provider, Flex, Text, Button, Header } from "@fluentui/react-northstar"
 import { teamsTheme, teamsDarkTheme, teamsHighContrastTheme } from "@fluentui/react-northstar";
 import { ThemePrepared } from "@fluentui/styles";
 
-import TeamsBaseComponent, { ITeamsBaseComponentState } from "msteams-react-base-component";
+import TeamsBaseComponent, { ITeamsBaseComponentState } from "../../TeamsBaseComponent";
 import * as microsoftTeams from "@microsoft/teams-js";
 /**
  * State for the testTabTab React component
